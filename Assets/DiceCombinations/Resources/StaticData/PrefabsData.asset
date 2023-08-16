@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 91f8eae1dace4434aa94eb98cf6fef8d, type: 3}
+  m_Name: PrefabsData
+  m_EditorClassIdentifier: 
+  Dice: {fileID: 4613788645016618408, guid: 242dafe8b4c264943a345d7bfbf7d689, type: 3}
+  FieldDicesSum: {fileID: 8747460724458130982, guid: d787731b8fb28446e9f6c1e3e16f88d4, type: 3}
+  TableChip: {fileID: 8879593953244487887, guid: 8eb1c2b2875ff45c99e6919d6017a269, type: 3}
+  InfoTableChip: {fileID: 5202998124005531834, guid: eae9b564d4d504126869b41b28c8c4ea, type: 3}
+  RootCanvasPrefab: {fileID: 8927380304441350620, guid: 17f494cd2bfab493fa28ae48dd62b1a8, type: 3}
+  BackButton: {fileID: 2408093656264567924, guid: 84a4455b4b5874904a5dbc086e4ddf9b, type: 3}
+  SoundSettings: {fileID: 9043866563305293137, guid: 5567a94719ce64450ba353ea612d5f55, type: 3}
+  MainMenu: {fileID: 1660718965219310650, guid: 2467ffd73ef8a444885c7d3b44d14fb2, type: 3}
+  RulesView: {fileID: 8526200735448501226, guid: 2a9769fe8dc9a4db1be694bdcb8db989, type: 3}
+  BalanceView: {fileID: 8671451998550959402, guid: c36f293be8fa80f4da039268b72f4e55, type: 3}
+  BetView: {fileID: 988897802141916852, guid: b122d75dea3387f438f4e64c6d87caf3, type: 3}
+  ClearButton: {fileID: 6498482223269140618, guid: b7d1824e4efed2d4fb35d8aa850a9492, type: 3}
+  SpinButton: {fileID: 354120346456406929, guid: 1d81dae6740999e4d926db93f8d97576, type: 3}
+  WinPopup: {fileID: 5199860639245901927, guid: c28fdfa04d64a1749bdf5c184799e6f3, type: 3}
+  ChipsRoot: {fileID: 7147864080224567502, guid: 6694357058b964ea58b7cf6b77d66be9, type: 3}
+  UIChipView: {fileID: 1588101660855848845, guid: 5ed500a502e2f484daeca4e5ca7d4144, type: 3}
+  RuleUIView: {fileID: 4969618605080416107, guid: b670c515bb0414f7bb3ded0e5802c01e, type: 3}
